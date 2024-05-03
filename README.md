@@ -10,3 +10,4 @@ After downloading the package, and in this example, SnomedCT_InternationalRF2_PR
 	- > SnomedCT_InternationalRF2_PRODUCTION_20240301T120000Z
  	- > AD_find_ancestor_demo.ipynb
 
+In this example, we want to find all SNOMED IDs relevant to autoimmune diseases.
