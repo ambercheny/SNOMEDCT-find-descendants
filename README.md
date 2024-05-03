@@ -6,7 +6,7 @@ https://www.nlm.nih.gov/healthit/snomedct/international.html
 
 After downloading the package, and in this example, SnomedCT_InternationalRF2_PRODUCTION_20240301T120000Z (you may have different directory names if using different versions), please set up your folder strcture like this.
 
-SNOMED <\br>
-	> SnomedCT_InternationalRF2_PRODUCTION_20240301T120000Z <\n>
-	> AD_find_ancestor_demo.ipynb<\n>
+SNOMED 
+	> SnomedCT_InternationalRF2_PRODUCTION_20240301T120000Z
+ 	> AD_find_ancestor_demo.ipynb
 
